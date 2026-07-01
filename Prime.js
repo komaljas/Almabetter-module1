@@ -1,6 +1,6 @@
 /*Write a JavaScript function findPrimes that takes a positive integer n as
  input and returns an array of prime numbers less than or equal to n.*/
-
+CODE TO WRITE
 function findPrimes(n) {
     const primes = [];
 
