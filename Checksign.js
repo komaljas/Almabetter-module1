@@ -1,6 +1,6 @@
 /*Write a JavaScript function checkSign that takes three numbers as 
 input and returns a string representing the signs of the numbers.*/
-
+CODE TO WRITE 
 function Sign(a, b, c) {
     let positive = 0;
     let negative = 0;
