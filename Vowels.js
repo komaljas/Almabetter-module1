@@ -1,6 +1,6 @@
 /*Write a JavaScript function countVowels that counts the number of vowels (a, e, i, o, u) 
 in a given string. The function should take one argument: str (string).*/
-
+CODE BUG FIXING
 function countVowels(str) {
     // Write your code here
     const vowels = ['a', 'e', 'i', 'o', 'u'];
