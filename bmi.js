@@ -1,7 +1,7 @@
 /*Write a JavaScript function calculateBMI that calculates a person's 
 Body Mass Index (BMI) based on their weight and height, and returns a 
 corresponding health classification.The BMI is a commonly used indicator of body weight status and health.*/
-
+CODE BUG FIXING 
 function calculateBMI(weight, height) {
     // Write your code here
     const bmi = weight / (height * height);
