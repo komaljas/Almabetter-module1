@@ -19,7 +19,8 @@ function findLongestWord(sentence) {
 // Do not modify the below lines
 module.exports = { findLongestWord };
 
- EXPLANATION: Use for...of when you only need the values in an array. Use a normal for loop when you also need the index.
+ EXPLANATION: Use for...of when you only need the values in an array. 
+	 Use a normal for loop when you also need the index.
 
 function findLongestWord(sentence) {
     // Split the sentence into words
