@@ -24,3 +24,5 @@ function findPrimes(n) {
 
 console.log(findPrimes(20));
     
+explaination: create a findprimes,& primes store all nos,then it start with 2 becz 2 is prime ,
+ check if true then go to divisibliy by 2 & math sqaurerrot, if true then become 0 else false break
