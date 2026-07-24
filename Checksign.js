@@ -8,19 +8,19 @@ function Sign(a, b, c) {
     if (a > 0) {
         positive++;
     } else {
-        negative++;
+        negative--;
     }
 
     if (b > 0) {
         positive++;
     } else {
-        negative++;
+        negative--;
     }
 
     if (c > 0) {
         positive++;
     } else {
-        negative++;
+        negative--;
     }
 
     if (positive === 3) {
